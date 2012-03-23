@@ -1,0 +1,10 @@
+* Introduce
+I use Emacs StarterKit as base configure.
+Some more configure included:
+
+ + Org Mode & Org Life: try to make a GTD style life. 	
+ + Send Mail: gmail-smtp
+ + Read Mail: use notmuch (cooperated with offlineimap)
+ + Literature: documents managment (for acedemic pdf)
+ + DIR Mode enhancement
+ + Nature Language Processing (Delphin-LKB-LOGON)
